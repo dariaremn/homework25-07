@@ -1,0 +1,108 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.nav {
+    background-image: url(/) no-repeat center/cover;
+}
+.img-main{
+    width: 100%;
+    position: absolute;
+}
+.main-concert {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    font-size: large;
+    background: rgb(240, 44, 77);
+    color: white;
+    width: 100%;
+    height: 50px;
+}
+.span-main {
+
+}
+.main-h1 {
+    position: absolute;
+    display: block;
+    margin-top: 250px;
+    margin-left: 250px;
+    color:aliceblue;
+    font-size: 45px;
+}
+.main-p {
+    position: absolute;
+    display: block;
+    margin-top: 290px;
+    margin-left: 250px;
+    color:aliceblue;
+    font-size: 45px;
+
+}
+.main-inf {
+    display: flex;
+}
+.cards {
+
+    display: flex;
+    position: block;
+    justify-content: space-around;
+    
+    margin-top: 200px;
+}
+.recomend {
+    margin-top: 600px;
+    color: rgb(10, 10, 10);
+
+}
+.card-1 {
+    flex-direction: column;
+    margin-left:65px ;
+    position: relative;
+    width: 300px;
+    height: 700px;
+
+}
+a{
+    text-decoration: none;
+}
+.photo {
+    width: 279px;
+    height: 230px;
+    margin-top: 500px;
+}
+.h2-card {
+    background: white;
+    color: black;
+    flex-wrap: wrap;
+    text-decoration: none;
+}
+.span-card {
+    color: black;
+}
+.card-2 {
+
+    position: relative;
+}
+.card-3 {
+
+    position: relative;
+}
+.footer {
+    position: relative;
+    margin-top: 100px;
+    background: rgb(255, 243, 243);
+}
+.title {
+    background: rgb(240, 44, 77);
+}
+.first-colum {
+}
+.first-colum:hover{
+    color: rgb(164, 40, 62);
+    font-size: 20px;
+}
+.img-footer{
+
+}
